@@ -1,0 +1,9 @@
+*.html
+*.o
+git.h
+log.h
+make.options.conf
+manpage.1
+ratslap
+.junie/memory
+.idea/
